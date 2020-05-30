@@ -17,7 +17,7 @@ Glücklicherweise gibt es hierfür bereits einen [Online Editor](https://bennett
 
 Für mein Beispiel verwende ich ein Oktagon als Grundform.
 
-```CSS
+```css
 .step {
   -webkit-clip-path: polygon(30% 0%, 70% 0%, 100% 30%, 100% 70%, 70% 100%, 30% 100%, 0% 70%, 0% 30%);
   clip-path: polygon(30% 0%, 70% 0%, 100% 30%, 100% 70%, 70% 100%, 30% 100%, 0% 70%, 0% 30%);
@@ -38,7 +38,7 @@ Die beiden Properties `line-height` und `text-align` dienen zur Zentrierung der 
 Zusätzlich soll bei einem Fortschrittsbalken innerhalb eines Wizards der aktive Schritt markiert werden.
 In meinem Beispiel verwende ich für den aktiven Schritt eine andere Hintergrundfarbe:
 
-```CSS
+```css
 .step.active {
   background: orange;
 }
@@ -46,7 +46,7 @@ In meinem Beispiel verwende ich für den aktiven Schritt eine andere Hintergrund
 
 Das dazu gehörende HTML sieht z.B. so aus:
 
-```HTML
+```html
 <div style="display: flex">
   <div class="step">
     Schritt 1
@@ -60,7 +60,7 @@ Das dazu gehörende HTML sieht z.B. so aus:
 </div>
 ```
 
-Dieses Beispiel steht auch auf JSFiddle bereit: https://jsfiddle.net/a0jz8xwu/
+Dieses Beispiel steht auch auf JSFiddle bereit: [Beispiel](https://jsfiddle.net/a0jz8xwu/)
 
 # Mögliche Erweiterungen
 
