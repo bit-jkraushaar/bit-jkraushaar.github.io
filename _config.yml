@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Diesen Blog schreibe ich vor allem für mich selbst.
   Er dient mir als Gedächtnisstütze, um Best Practices aus meinem Alltag wiederzufinden, ohne erneut eine aufwändige Recherche durchzuführen.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.jochens-cache.de" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: KraushaarJochen
 github_username: bit-jkraushaar
 lang: de
@@ -38,6 +38,17 @@ theme: minima
 highlighter: rouge
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
+# jekyll-seo-tag settings
+twitter:
+  username: KraushaarJochen
+  card: summary
+social:
+  name: Jochen Kraushaar
+  links:
+    - https://twitter.com/KraushaarJochen
+    - https://github.com/bit-jkraushaar
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
