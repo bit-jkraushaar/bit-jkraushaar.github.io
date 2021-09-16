@@ -27,6 +27,7 @@ twitter_username: KraushaarJochen
 github_username: bit-jkraushaar
 lang: de
 show_excerpts: true
+paginate: 10
 
 # Theme settings
 minima:
