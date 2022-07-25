@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Einfache Tools mit Node.js schreiben"
-date: 2022-07-25 08:00:00 +0100
+date: 2022-07-25 08:00:00 +0200
 ---
 
 Mit Node.js lassen sich nicht nur Webanwendungen schreiben, sondern auch kleine Tools, die den Projektalltag erleichtern.
