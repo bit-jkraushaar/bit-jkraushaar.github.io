@@ -1,20 +1,17 @@
 ---
-layout: page
-title: Impressum
-permalink: /imprint/
 ---
 
 # Impressum
 
 ## Diensteanbieter
-Jochen Kraushaar<br>
-Ziegelhüttenweg 11<br>
-69207 Sandhausen<br>
+Jochen Kraushaar  
+Bleichwiesenstr. 7  
+78315 Radolfzell am Bodensee  
 Deutschland
 
 ## Kontaktmöglichkeiten
 
-**E-Mail-Adresse**: info@jochens-cache.de<br>
+**E-Mail-Adresse**: info@jochens-cache.de  
 **Telefon**: +49 1520 3603341
 
 ## Journalistisch-redaktionelle Angebote
