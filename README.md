@@ -1,7 +1,7 @@
 # README
 
 This repository contains the source for my personal blog.
-It uses [Jekyll](http://github.com/mojombo/jekyll) to transform the source code into a static site.
+It uses [Hugo](https://gohugo.io/) to transform the source code into a static site.
 My blog is written in German.
 
 ## License
@@ -9,9 +9,8 @@ My blog is written in German.
 The following directories and their contents are Copyright Jochen Kraushaar.
 You may not reuse anything therein without my permission:
 
-* \_posts/
-* \_drafts/
-* images/
+* content/post
+* assets/img
 
 All other directories and files are MIT Licensed.
 
