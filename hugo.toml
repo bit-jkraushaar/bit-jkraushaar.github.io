@@ -1,0 +1,14 @@
+theme = 'hugo-theme-stack'
+baseURL = 'https://www.jochens-cache.de'
+disablePathToLower = 'true'
+languageCode = 'de-de'
+title = 'Jochens Cache'
+
+[menu]
+[[menu.social]]
+identifier = "github"
+name = "GitHub"
+url = "https://github.com/bit-jkraushaar"
+
+[menu.social.params]
+icon = "brand-github"
