@@ -1,20 +1,18 @@
 ---
-layout: page
-title: Impressum
-permalink: /imprint/
 ---
 
 # Impressum
 
 ## Diensteanbieter
-Jochen Kraushaar<br>
-Ziegelhüttenweg 11<br>
-69207 Sandhausen<br>
+Jochen Kraushaar  
+c/o Impressumservice Dein-Impressum  
+Stettiner Strasse 41  
+35410 Hungen  
 Deutschland
 
 ## Kontaktmöglichkeiten
 
-**E-Mail-Adresse**: info@jochens-cache.de<br>
+**E-Mail-Adresse**: info@jochens-cache.de  
 **Telefon**: +49 1579-2341672
 
 ## Journalistisch-redaktionelle Angebote

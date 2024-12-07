@@ -12,3 +12,6 @@ url = "https://github.com/bit-jkraushaar"
 
 [menu.social.params]
 icon = "brand-github"
+
+[Params.Footer]
+customText = "<a href=\"/datenschutz/\">Datenschutzerklärung</a> | <a href=\"/imprint/\">Impressum</a>"
