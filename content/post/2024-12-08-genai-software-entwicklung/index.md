@@ -1,5 +1,5 @@
 ---
-date: "2024-12-08T19:30:00Z"
+date: "2024-12-08T19:00:00Z"
 title: 'GenAI in der Softwareentwicklung: Praktische Tipps und Grenzen'
 description: "
 Generative KI verändert die Softwareentwicklung wie nie zuvor – von der Code-Generierung bis zur Anforderungsanalyse. Entdecke Best Practices, typische Anwendungsfälle und die Grenzen von Modellen wie Github Copilot. Lerne, wie du KI-Tools effizient und sicher einsetzt, um deine Produktivität zu steigern und smarter zu arbeiten.
