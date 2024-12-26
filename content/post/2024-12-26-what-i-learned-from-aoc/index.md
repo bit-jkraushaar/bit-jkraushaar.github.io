@@ -40,4 +40,13 @@ Alle Ergebnisse meiner Versuche stehen außerdem in [Google Colab](https://colab
 
 # Wie lief der Advent of Code für ChatGPT?
 
+Die ersten beiden Tagen liefen sehr gut für ChatGPT. Ich konnte hier den Aufgabentext 1:1 von der Webseite kopieren und mit der Aufforderung "Bitte hilf mir dabei Teil 1 des heutigen Rätsels in Python zu lösen" an ChatGPT übergeben.
+
+Am dritten Tag musste ich ChatGPT zum ersten Mal korrigieren, konnte dabei meine Hinweise auf die Fachlichkeit beschränken und musste nicht tiefer in den Code einsteigen.
+Bereits ab dem vierten Teil musste ich dann (für den zweiten Teil der Aufgabe) bereits einen Blick in den Code werfen.
+
+Ab dem fünften Tag verwendete ich zudem die Aufforderung, dass ChatGPT den Code Interpreter verwenden und sich selbst korrigieren soll.
+Damit war es zunächst in der Lage einfache Fehler selbsständig zu finden und zu lösen.
+An späteren Tagen verlief sich ChatGPT jedoch zunehmend in der Autokorrektur und stellte unzählige Versuche den Code zu korrigieren, allerdings ohne eine tatsächliche Lösung herbeizuführen.
+
 # Was habe ich daraus gelernt?
