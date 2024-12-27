@@ -1,5 +1,5 @@
 ---
-date: "2024-12-26T19:00:00Z"
+date: "2024-12-27T09:30:00Z"
 title: 'Was ich beim Advent of Code über ChatGPT gelernt habe'
 description: "
 Wie gut eignet sich ChatGPT als Partner beim Lösen komplexer Programmieraufgaben? Im diesjährigen Advent of Code habe ich ChatGPT intensiv getestet und dabei spannende Erkenntnisse über seine Stärken, Schwächen und den richtigen Umgang mit generiertem Code gewonnen. Ein Erfahrungsbericht über Kooperation, Kommunikation und den Weg zu besseren Lösungen.
