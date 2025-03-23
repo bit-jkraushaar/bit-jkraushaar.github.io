@@ -3,6 +3,7 @@ baseURL = 'https://www.jochens-cache.de'
 disablePathToLower = 'true'
 languageCode = 'de-de'
 title = 'Jochens Cache'
+defaultContentLanguage = 'de'
 
 [menu]
 [[menu.social]]
@@ -15,3 +16,15 @@ icon = "brand-github"
 
 [Params.Footer]
 customText = "<a href=\"/datenschutz/\">Datenschutzerklärung</a> | <a href=\"/imprint/\">Impressum</a>"
+
+[languages]
+  [languages.en]
+    baseURL = 'https://en.example.org/'
+    languageName = 'English'
+    title = 'In English'
+    weight = 2
+  [languages.de]
+    baseURL = 'https://de.example.org'
+    languageName = 'Deutsch'
+    title = 'Auf Deutsch'
+    weight = 1
