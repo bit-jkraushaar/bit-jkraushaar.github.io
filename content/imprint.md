@@ -5,9 +5,9 @@
 
 ## Diensteanbieter
 Jochen Kraushaar  
-c/o Impressumservice Dein-Impressum  
-Stettiner Strasse 41  
-35410 Hungen  
+c/o Impressumservice Dein-Impressum
+Stettiner Straße 41
+35410 Hungen
 Deutschland
 
 ## Kontaktmöglichkeiten
